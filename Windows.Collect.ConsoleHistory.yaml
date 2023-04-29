@@ -3,7 +3,7 @@ author: Osama Radwan - github @minirobot22
 description: |
     This Artifact will look for all running cmd shells on the target and dump thier command line history using GetConsoleHistory tool.
     Original Tool from @IllusiveNetworks-Labs https://github.com/IllusiveNetworks-Labs/GetConsoleHistoryAndOutput
-    Tool combiled in my repo 
+    Tool compiled in my repo. (https://github.com/minirobot22/Collect.ConsoleHistory)
 
 type: CLIENT
 
